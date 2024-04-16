@@ -5,8 +5,8 @@ This project focuses on optimizing the energy output of renewable energy sources
 
 The structure of the repository:
 - **Code** : including any code works for data processing and model training.
+- **Data** : including any data resources that are used in this project.
 <br>-- Raw : Potential data sources without processing
 <br>-- Cleaned : Used data sources after data wraggling
-- **Data** : including any data resources that are used in this project.
 - **Visualization** : including the graphs and plots from data visualization.
 
