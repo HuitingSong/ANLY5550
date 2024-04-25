@@ -9,7 +9,7 @@ The structure of the repository:
 <br>-- Raw : Potential data sources without processing and will potientially be used in this project.
 <br>-- Cleaned : Used data sources after data wraggling
 - **Visualization** : including the graphs and plots from data visualization.
-- **Carbon Cost**: The carbon cost documents from running the coding file.
+- **CodeCarbon**: The carbon cost documents from running the coding file.
 
 Reference: 
 For datasets, they are coming from:
